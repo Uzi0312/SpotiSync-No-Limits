@@ -3,8 +3,8 @@ import yt_dlp
 import time 
 
 #Spotify Creds
-CLIENT_ID = "e94ecf6b41a24a3b9f9a2737198f57c7"
-CLIENT_SECRET = "811523b20455460a897e91b496ebe38d"
+CLIENT_ID = "Your Client ID"
+CLIENT_SECRET = "Your Client Secret"
 
 
 #Fetching Access Token
