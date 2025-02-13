@@ -38,7 +38,6 @@ Install ffmpeg (if not installed):
 
 USAGE
 Run the script:
-
 python spotisync.py
 
 Enter the Spotify playlist ID when prompted. Playlist ID can be extracted from a playlist link (Share Link)
